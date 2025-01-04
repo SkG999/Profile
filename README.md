@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Sarthak Gupta</h1>
-<h3 align="center">A passionate frontend , backend developer from India</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
+
+<h1 align="center">A passionate frontend , backend developer from India</h1>
 
 - 🔭 I’m currently working on **Instagram clone with some special functionalities.**
 
