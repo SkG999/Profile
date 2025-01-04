@@ -17,12 +17,7 @@
   <a href="https://linkedin.com/in/sarthak-gupta-a37607188/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-gupta-a37607188/" height="40" width="50" style="margin-right: 15px;"/>
   </a>
-  <a href="https://www.hackerrank.com/sarthakgupta6071" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthakgupta6071" height="40" width="50" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://www.leetcode.com/sarthakgupta60788/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthakgupta60788/" height="40" width="50" style="margin-right: 15px;"/>
-  </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
