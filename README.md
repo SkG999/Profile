@@ -4,13 +4,13 @@
 
 <h1 align="center">A passionate frontend , backend developer from India</h1>
 
-- 🔭 I’m currently working on **Instagram clone with some special functionalities.**
+- 🔭 I’m currently working on **MY SELF.**
 
 - 🌱 I’m currently learning **more about Backend.**
 
 - 💬 Ask me about **related to my tech stack.**
 
-- 📫 How to reach me **sarthakgupta60788@gmail.com**
+- 📫 How to reach me **sarthakgupta73029@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
