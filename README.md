@@ -4,9 +4,9 @@
 
 <h1 align="center">A passionate frontend , backend developer from India</h1>
 
-- 🔭 I’m currently working on **MY SELF.**
+- 🔭 I’m currently working on **Daily-Prob.**
 
-- 🌱 I’m currently learning **more about Backend.**
+- 🌱 I’m currently learning **🔭I’m currently deepening my understanding of the MERN stack and expanding my skills in AI/ML, GenAi..**
 
 - 💬 Ask me about **related to my tech stack.**
 
