@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Daily-Prob.**
 
-- 🌱 I’m currently learning **🔭I’m currently deepening my understanding of the MERN stack and expanding my skills in AI/ML, GenAi..**
+- 🌱 I’m currently deepening **🔭my understanding of the MERN stack and expanding my skills in AI/ML, GenAi..**
 
 - 💬 Ask me about **related to my tech stack.**
 
